@@ -1,0 +1,23 @@
+{
+  "name": "kinh-tung-niem",
+  "version": "1.0.0",
+  "description": "Kinh Tung Niem Hang Ngay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaoPhat/kinh-tung-niem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaoPhat/kinh-tung-niem/issues"
+  },
+  "homepage": "https://github.com/DaoPhat/kinh-tung-niem#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0"
+  }
+}
